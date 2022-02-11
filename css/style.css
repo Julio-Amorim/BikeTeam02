@@ -1,0 +1,52 @@
+/*instagram*/
+
+.nossos_atletas{
+    color: white;
+    text-align: center;
+    padding: 1rem;
+
+    font-style: italic;
+    font-weight: 100;
+}
+
+/*card*/
+
+.borda{
+    border-radius: 0%;
+}
+
+.borda_arredondada{
+    border-radius: 10px;
+}
+
+/*Bordas*/
+
+.espaco{
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+}
+
+.espaco02{
+    align-content: center;
+}
+
+.espaçamento_para_direita{
+    width: 15rem;
+    padding-right: 0%;
+    margin-right: 0;
+}
+
+.espaçamento_para_direita_2{
+    width: 10rem;
+}
+
+
+/*Cores*/
+
+.preto{
+    background-color: black;
+}
+
+.vermelho{
+    background-color: red;
+}
